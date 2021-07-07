@@ -1,8 +1,8 @@
 # Set a plain language title for the site.
-title: USGov Health Information Rights Complaint Form
+title: Rapid Response Test
 
 # Write a short description for the site. This is used for "meta description."
-description: File a complaint for violations of health information privacy and access rights
+description: Testing things rapidly!
 
 # Set the language for the site. Used for "html lang." Default is English.
 lang: en
@@ -17,7 +17,7 @@ github: [metadata]
 theme: null
 
 # Enable for live hosting on GitHub Pages
-baseurl: /complaint-screener
+baseurl: /complaint-screener-cm-test
 
 # Define content collections
 collections:
