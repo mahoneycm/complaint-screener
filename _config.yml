@@ -27,4 +27,4 @@ collections:
 sass:
     sass_dir: _sass
 
-homepage-image: "assets/img/Vision Board.jpg"
+homepage-image: "https://github.com/mahoneycm/complaint-screener/blob/main/assets/img/Vision%20Board.jpg"
