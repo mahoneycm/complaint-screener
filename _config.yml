@@ -27,4 +27,4 @@ collections:
 sass:
     sass_dir: _sass
 
-homepage-image: "../img/Vision%20Board.jpg"
+homepage-image: "assets/img/Vision Board.jpg"
